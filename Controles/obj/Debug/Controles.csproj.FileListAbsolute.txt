@@ -1,0 +1,52 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\bin\Debug\semaforo.png
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\bin\Debug\Controles.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\obj\Debug\Controles.semaforo.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\obj\Debug\Controles.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\obj\Debug\Controles.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\obj\Debug\Controles.volumen.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\david\documents\visual studio 2017\Projects\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Controles\Controles\Controles\bin\Debug\semaforo.png
+C:\Users\david\Desktop\Controles\Controles\Controles\bin\Debug\Controles.dll
+C:\Users\david\Desktop\Controles\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\david\Desktop\Controles\Controles\Controles\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.semaforo.resources
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.dll
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.pdb
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.explorador.resources
+C:\Users\david\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csproj.CopyComplete
+C:\Users\alvar\Desktop\Controles\Controles\Controles\bin\Debug\semaforo.png
+C:\Users\alvar\Desktop\Controles\Controles\Controles\bin\Debug\Controles.dll
+C:\Users\alvar\Desktop\Controles\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\alvar\Desktop\Controles\Controles\Controles\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.explorador.resources
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.semaforo.resources
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.csproj.CopyComplete
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.dll
+C:\Users\alvar\Desktop\Controles\Controles\Controles\obj\Debug\Controles.pdb
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\bin\Debug\semaforo.png
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\bin\Debug\Controles.dll
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.explorador.resources
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.semaforo.resources
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.csproj.CopyComplete
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.dll
+C:\Users\alvar\Desktop\linkia\Controles\Controles\Controles\obj\Debug\Controles.pdb
